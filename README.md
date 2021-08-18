@@ -2,7 +2,7 @@
 
 My name is Marco Aurélio Batista Corrêa from Brazil 💚💛
 
-- 💻 I'm currently working for Kloeckner.i Gmbh, Berlin/Germany, as a Front-end Developer
+- 💻 I'm currently working for Jung von Matt (JvM), Berlin/Germany, as a Front-end Developer
 - 💡 I’m currently learning React.js
 
 In my free time I like to play games (🎲), to watch E-sports(🎮), movies (🎞️) and series (📺), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
