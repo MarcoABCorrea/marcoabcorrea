@@ -10,4 +10,4 @@ In my free time I like to play games (🎲), to watch E-sports(🎮), movies (�
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoabcorrea)](https://www.linkedin.com/in/marcoabcorrea)
-[![Generic badge](https://img.shields.io/badge/Contact-Me-blue.svg)](http://marcoabcorrea.github.io/)
+
